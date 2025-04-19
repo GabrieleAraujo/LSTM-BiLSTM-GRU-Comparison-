@@ -93,3 +93,11 @@ While all models capture the general seasonal patterns, they show limitations in
    git clone https://github.com/GabrieleAraujo/LSTM-BiLSTM-GRU-Comparison-.git
    cd LSTM-BiLSTM-GRU-Comparison-
    ```
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. Run notebooks in each model's ``notebooks/`` folder.
+
+## License
+This project is licensed under the MIT License.
