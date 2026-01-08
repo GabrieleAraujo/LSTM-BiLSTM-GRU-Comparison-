@@ -4,11 +4,11 @@
 
 # Comparative Analysis of LSTM, BiLSTM, and GRU for Meteorological Time Series Forecasting
 
-This repository contains the code, data, and results for the study **"Análise Comparativa de Modelos LSTM, BiLSTM e GRU na Previsão de Dados Meteorológicos"**. The work compares three RNN architectures—LSTM, BiLSTM, and GRU—in forecasting daily average temperature using meteorological time series from Belém, Pará, Brazil.
+This repository contains the code, data, and results for the study **"Análise Comparativa de Modelos LSTM, BiLSTM e GRU na Previsão de Dados Meteorológicos"**. The work compares three RNN architectures such as LSTM, BiLSTM, and GRU, in forecasting daily average temperature using meteorological time series from Belém, Pará, Brazil.
 
 ## Overview
 
-Recurrent neural networks have shown promise in modeling sequential data. However, traditional RNNs suffer from vanishing gradients in long-term dependencies. To overcome these limitations, this study compares the performance of advanced RNN architectures—**LSTM**, **BiLSTM**, and **GRU**—in time series forecasting tasks using the following metrics:
+Recurrent neural networks have shown promise in modeling sequential data. However, traditional RNNs suffer from vanishing gradients in long-term dependencies. To overcome these limitations, this study compares the performance of advanced RNN architectures such as **LSTM**, **BiLSTM**, and **GRU**, in time series forecasting tasks using the following metrics:
 - MAE (Mean Absolute Error)
 - MSE (Mean Squared Error)
 - RMSE (Root Mean Squared Error)
